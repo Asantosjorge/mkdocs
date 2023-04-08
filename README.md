@@ -1,6 +1,6 @@
 # MkDocs
 
-> *Project documentation with Markdown*
+> *Project está sendo documentado e atualizado no with Markdown*
 
 [![PyPI Version][pypi-v-image]][pypi-v-link]
 [![Build Status][GHAction-image]][GHAction-link]
